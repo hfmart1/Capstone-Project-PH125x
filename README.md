@@ -8,3 +8,4 @@ Files :
 - the same report in .rmd format
 - the data analysis using R
 - a data analysis using python and the tensorflow library
+- the compressed dataset
